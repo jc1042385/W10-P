@@ -60,6 +60,7 @@ nav ul {
         display: inline-flex;
         width: 28%;
         flex-direction: column;
-        justify-content: space-between;
+        align-content: start;
+        justify-content: start;
     }
 }
