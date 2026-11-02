@@ -1,0 +1,21 @@
+nav ul {
+    list-style: none;
+}
+
+
+#hero {
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero .hero-text {
+    background-color: rgba(211,211,211,128);
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+}
