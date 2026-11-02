@@ -53,7 +53,9 @@ nav ul {
     }
 
     #music article {
-        display: inline-block;
+        display: inline-flex;
         width: 28%;
+        flex-direction: column;
+        justify-content: space-between;
     }
 }
